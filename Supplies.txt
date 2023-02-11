@@ -1,0 +1,26 @@
+Supplies Necessary for creating the InMoov Robotic Arm:
+- 6x Servo Motors
+- 1x 3D Printed Hand, Wrist, and Forearm
+- 1x Lube
+- Copper pieces
+- 200 lb Fish Braid
+- 1x Super Glue
+- Batteries
+- Battery Holders
+- Jumper Wires
+- Antistatic Foam
+- 1x Microcontroller
+- 1x Glove (Optional)
+- Drill bits - 2mm, 2.5mm, 3mm, 3.2/3.5mm, 8mm
+- 1x8mmx8cm bolt to attach wristlarge to wristsmall
+- 1x8mmx4cm bolt to attach wriarge to thumbbottom
+- 1x8mmx6cm bolt for to attach wriarge to robpart1
+- 16x3mmx2cm bolts for all fingers hinges(I have recut each bolt to adapt to finger width)
+
+
+EMG Additions:
+- 1x MyoWare Muscle Sensor
+- 3x Electrode Pads
+
+Camera Additions:
+- 1x Camera
